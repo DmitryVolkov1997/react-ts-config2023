@@ -8,10 +8,9 @@
 			"customTemplates": {
 				"component": "templates/default/TemplateName.tsx",
 				"style": "templates/default/TemplateName.module.scss",
-				"index": "templates/default/index.ts",
-				"props": "templates/default/TemplateName.props.ts"
+				"index": "templates/default/index.ts"
 			},
-			"path": "src/app/components",
+			"path": "src/components",
 			"withLazy": false,
 			"withStory": false,
 			"withStyle": true,
